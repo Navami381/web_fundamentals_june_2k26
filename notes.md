@@ -32,7 +32,7 @@
 ```
 Employee
 
-id  name    age   department  salary
+id  name    age   department     salary
 
 1   haris    23          hr      25000
 2   vipin    23          qa      25000
